@@ -1,4 +1,4 @@
-# CRM X Pull Request Template
+# Proxy Town Pull Request Template
 
 ## Description
 
